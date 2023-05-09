@@ -1,5 +1,59 @@
 # Change Log
 
+## 2.6.2
+
+### Patch Changes
+
+- [`38acfe89c`](https://github.com/chakra-ui/chakra-ui/commit/38acfe89c5d1f1edc67bbc44e2edd38980ca3e08)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Bump emotion
+  version to `11.11.x` to support css cascade layers
+
+- Updated dependencies
+  [[`38acfe89c`](https://github.com/chakra-ui/chakra-ui/commit/38acfe89c5d1f1edc67bbc44e2edd38980ca3e08)]:
+  - @chakra-ui/css-reset@2.1.2
+  - @chakra-ui/provider@2.2.5
+  - @chakra-ui/styled-system@2.9.1
+  - @chakra-ui/slider@2.0.25
+  - @chakra-ui/system@2.5.8
+  - @chakra-ui/menu@2.1.14
+  - @chakra-ui/skeleton@2.0.24
+  - @chakra-ui/theme@3.1.1
+  - @chakra-ui/toast@6.1.4
+  - @chakra-ui/theme-utils@2.0.18
+  - @chakra-ui/accordion@2.1.11
+  - @chakra-ui/alert@2.1.0
+  - @chakra-ui/avatar@2.2.10
+  - @chakra-ui/breadcrumb@2.1.5
+  - @chakra-ui/button@2.0.18
+  - @chakra-ui/card@2.1.6
+  - @chakra-ui/checkbox@2.2.15
+  - @chakra-ui/close-button@2.0.17
+  - @chakra-ui/control-box@2.0.13
+  - @chakra-ui/editable@3.0.0
+  - @chakra-ui/form-control@2.0.18
+  - @chakra-ui/icon@3.0.16
+  - @chakra-ui/image@2.0.16
+  - @chakra-ui/input@2.0.22
+  - @chakra-ui/layout@2.1.19
+  - @chakra-ui/media-query@3.2.12
+  - @chakra-ui/modal@2.2.11
+  - @chakra-ui/number-input@2.0.19
+  - @chakra-ui/pin-input@2.0.20
+  - @chakra-ui/popover@2.1.11
+  - @chakra-ui/progress@2.1.6
+  - @chakra-ui/radio@2.0.22
+  - @chakra-ui/select@2.0.19
+  - @chakra-ui/spinner@2.0.13
+  - @chakra-ui/stat@2.0.18
+  - @chakra-ui/stepper@2.2.0
+  - @chakra-ui/switch@2.0.27
+  - @chakra-ui/table@2.0.17
+  - @chakra-ui/tabs@2.1.9
+  - @chakra-ui/tag@3.0.0
+  - @chakra-ui/textarea@2.0.19
+  - @chakra-ui/tooltip@2.2.8
+  - @chakra-ui/visually-hidden@2.0.15
+
 ## 2.6.1
 
 ### Patch Changes
